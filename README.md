@@ -1,0 +1,2 @@
+# tradingbot
+Första tradingbot
